@@ -19,28 +19,29 @@ Please do not spend longer than 4 hours on the task - we are looking to understa
 
 ## Getting Started
 
+Some boilerplate has been created to help you get started, including django and django-admin for the backend, and create react app on the frontend. It requires [docker](https://www.docker.com/).
+
+Feel free to use the boilerplate or to create your own.
+
 <details>
   <summary>Instructions</summary>
 
-    Some boilerplate has been created to help you get started, including django and django-admin for the backend, and create react app on the frontend. It requires [docker](https://www.docker.com/).
 
-    Feel free to use the boilerplate or to create your own.
-
-    ```
+    ~~~
     > docker-compose run backend python manage.py migrate
-    ```
+    ~~~
 
     Will create the database `src/backend/db.sqlite3`.
 
-    ```
+    ~~~
     > docker-compose run backend python manage.py createsuperuser
-    ```
+    ~~~
 
     To create a superuser for django-admin
 
-    ```
+    ~~~
     > docker-compose up
-    ```
+    ~~~
 
     Frontend:  http://localhost:3000
     Backend:  http://localhost:8000
