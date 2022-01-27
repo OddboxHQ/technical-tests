@@ -23,31 +23,26 @@ Some boilerplate has been created to help you get started, including django and 
 
 Feel free to use the boilerplate or to create your own.
 
-<details>
-  <summary>Instructions</summary>
+```
+> docker-compose run backend python manage.py migrate
+```
 
+Will create the database `src/backend/db.sqlite3`.
 
-    ~~~
-    > docker-compose run backend python manage.py migrate
-    ~~~
+```
+> docker-compose run backend python manage.py createsuperuser
+```
 
-    Will create the database `src/backend/db.sqlite3`.
+To create a superuser for django-admin
 
-    ~~~
-    > docker-compose run backend python manage.py createsuperuser
-    ~~~
+```
+> docker-compose up
+```
 
-    To create a superuser for django-admin
+Frontend:  http://localhost:3000
+Backend:  http://localhost:8000
+Django Admin:  http://localhost:8000/admin
 
-    ~~~
-    > docker-compose up
-    ~~~
-
-    Frontend:  http://localhost:3000
-    Backend:  http://localhost:8000
-    Django Admin:  http://localhost:8000/admin
-
-</details>
 
 
 ## Instructions
