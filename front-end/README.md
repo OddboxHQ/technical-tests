@@ -48,7 +48,7 @@ There should now be two applications running:
 * React front-end: http://localhost:3001/ 
 * Recipe API: http://localhost:3002/
 
-We suggest you have a link at the example data that the API responds with to familiarise yourself first.
+We suggest you have a look at the example data that the API responds with to familiarise yourself first.
 
 * http://localhost:3002/recipes/?_page=1 (GET all recipes, with pagination)
 * http://localhost:3002/recipes/chocolate-orange-pavlovas (GET a specific recipe, by ID)
