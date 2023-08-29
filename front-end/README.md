@@ -2,6 +2,8 @@
 
 The Oddbox Front-End technical test is designed to test your fundamental understanding of building a React application and fetching data from an API endpoint.
 
+Please do not spend longer than 4 hours on the task - we are looking to understand your approach rather than your ability to build something production-ready in a morning!
+
 ## Task
 
 Your task is to build a simple front-end to display recipes for customers.
