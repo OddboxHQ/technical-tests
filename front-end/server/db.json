@@ -1448,7 +1448,7 @@
       }
     },
     {
-      "id": "/recipes/carrot-thai-noodle-curry",
+      "id": "carrot-thai-noodle-curry",
       "category": "Main",
       "cooking_time": 20,
       "date": "2023-07-25",
@@ -3880,7 +3880,7 @@
       }
     },
     {
-      "id": "/recipes/crispy-roasted-broad-beans",
+      "id": "crispy-roasted-broad-beans",
       "category": "Snack",
       "cooking_time": 20,
       "date": "2023-07-05",
@@ -5915,7 +5915,7 @@
       }
     },
     {
-      "id": "/recipes/hoisin-tofu-with-courgette-noodle-slaw",
+      "id": "hoisin-tofu-with-courgette-noodle-slaw",
       "category": "Main",
       "cooking_time": 15,
       "date": "2023-06-15",
@@ -7547,414 +7547,412 @@
       }
     },
     {
-      "data": {
-        "id": "mini-peach-upside-down-cakes",
-        "category": null,
-        "cooking_time": 30,
-        "date": "2023-05-24",
-        "difficulty": null,
-        "preparation_time": 20,
-        "servings": 6,
-        "image": {
-          "alt": null,
-          "url": "https://images.prismic.io/oddbox/25133115-2d27-4308-b568-2b2f507a06bc_IMG_4247%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-        },
-        "short_description": {
-          "text": "These super moist mini upside down cakes are bursting with peaches in every bite."
-        },
-        "steps": [
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/ec9303e1-a8e7-4c7b-a788-ba8e2215fecf_IMG_4242.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Preheat the oven to 180C/160c fan/4 gas mark. Oil your muffin tin with neutral oil. Divide butter and caster sugar into 12 equal parts and place into the 12 muffin cups. Arrange 2-3 slices of peach over the butter and sugar to cover the bottom of each muffin cup. Set aside. "
-            }
+      "id": "mini-peach-upside-down-cakes",
+      "category": null,
+      "cooking_time": 30,
+      "date": "2023-05-24",
+      "difficulty": null,
+      "preparation_time": 20,
+      "servings": 6,
+      "image": {
+        "alt": null,
+        "url": "https://images.prismic.io/oddbox/25133115-2d27-4308-b568-2b2f507a06bc_IMG_4247%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+      },
+      "short_description": {
+        "text": "These super moist mini upside down cakes are bursting with peaches in every bite."
+      },
+      "steps": [
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/ec9303e1-a8e7-4c7b-a788-ba8e2215fecf_IMG_4242.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
           },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/a7b6516e-8f52-451e-979b-268d7fd05ce5_IMG_4243.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Whisk together the plain flour, baking powder and salt. Set aside."
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/25d65422-96c2-4c9b-b88d-183e91710bcd_IMG_4244.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "In a large mixing bowl, using an electric whisk, mix together the butter and caster sugar for about 2 minutes, or until whiten and fluffy. "
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/af400ddd-dbb5-4d75-a6c5-1d845cf28021_IMG_4245.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Add the egg and vanilla, and whisk again. Then add  the buttermilk and mix until combined. "
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/c7543ae7-6614-4600-a262-5a8db4c4dc5b_IMG_4251%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Add the flour mixture, poppy seeds and chopped peaches. Mix until you have a smooth batter. "
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/e32e4397-9592-4ee5-a84a-54d0dbd33c5c_IMG_4246.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Divide the cake batter into the prepared muffin cups. Bake the mini cakes for about 25-30 minutes, or until an inserted toothpick comes out clean."
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/cb970d11-6e1c-404c-b72c-a836df71c3e6_IMG_4248%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Cool the cakes in the muffin tin for 5 minutes, and then run a butter knife around the edges to release the sides. Place a wire rack on top of the muffin tin and flip over to release the mini cakes. Be gentle removing the pan. If the cakes don’t come out easily this way, use a butter knife to scoop them out of each cup instead. "
-            }
-          },
-          {
-            "step_image": {
-              "url": "https://images.prismic.io/oddbox/fb6f853d-959f-4ccc-9a98-913442428d8c_IMG_4249%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
-            },
-            "step_text": {
-              "text": "Serve on their own or with vanilla ice cream. "
-            }
+          "step_text": {
+            "text": "Preheat the oven to 180C/160c fan/4 gas mark. Oil your muffin tin with neutral oil. Divide butter and caster sugar into 12 equal parts and place into the 12 muffin cups. Arrange 2-3 slices of peach over the butter and sugar to cover the bottom of each muffin cup. Set aside. "
           }
-        ],
-        "storage": {
-          "text": "Store in an airtight container for up to 3 days. "
         },
-        "title": {
-          "text": "Mini Peach Upside Down Cakes "
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/a7b6516e-8f52-451e-979b-268d7fd05ce5_IMG_4243.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Whisk together the plain flour, baking powder and salt. Set aside."
+          }
         },
-        "authors": [
-          {
-            "author": {
-              "document": {
-                "data": {
-                  "full_name": {
-                    "text": "Camille Aubert"
-                  }
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/25d65422-96c2-4c9b-b88d-183e91710bcd_IMG_4244.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "In a large mixing bowl, using an electric whisk, mix together the butter and caster sugar for about 2 minutes, or until whiten and fluffy. "
+          }
+        },
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/af400ddd-dbb5-4d75-a6c5-1d845cf28021_IMG_4245.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Add the egg and vanilla, and whisk again. Then add  the buttermilk and mix until combined. "
+          }
+        },
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/c7543ae7-6614-4600-a262-5a8db4c4dc5b_IMG_4251%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Add the flour mixture, poppy seeds and chopped peaches. Mix until you have a smooth batter. "
+          }
+        },
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/e32e4397-9592-4ee5-a84a-54d0dbd33c5c_IMG_4246.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Divide the cake batter into the prepared muffin cups. Bake the mini cakes for about 25-30 minutes, or until an inserted toothpick comes out clean."
+          }
+        },
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/cb970d11-6e1c-404c-b72c-a836df71c3e6_IMG_4248%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Cool the cakes in the muffin tin for 5 minutes, and then run a butter knife around the edges to release the sides. Place a wire rack on top of the muffin tin and flip over to release the mini cakes. Be gentle removing the pan. If the cakes don’t come out easily this way, use a butter knife to scoop them out of each cup instead. "
+          }
+        },
+        {
+          "step_image": {
+            "url": "https://images.prismic.io/oddbox/fb6f853d-959f-4ccc-9a98-913442428d8c_IMG_4249%202.JPG?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max"
+          },
+          "step_text": {
+            "text": "Serve on their own or with vanilla ice cream. "
+          }
+        }
+      ],
+      "storage": {
+        "text": "Store in an airtight container for up to 3 days. "
+      },
+      "title": {
+        "text": "Mini Peach Upside Down Cakes "
+      },
+      "authors": [
+        {
+          "author": {
+            "document": {
+              "data": {
+                "full_name": {
+                  "text": "Camille Aubert"
                 }
               }
             }
           }
-        ],
-        "body": [
-          {
-            "id": "4d4686f0-6bac-5dae-98e0-3d66d7c90b85",
-            "items": [
-              {
-                "count": 1,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Peach"
-                      },
-                      "name_plural": {
-                        "text": "Peaches"
-                      }
+        }
+      ],
+      "body": [
+        {
+          "id": "4d4686f0-6bac-5dae-98e0-3d66d7c90b85",
+          "items": [
+            {
+              "count": 1,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Peach"
+                    },
+                    "name_plural": {
+                      "text": "Peaches"
                     }
                   }
-                },
-                "short_description1": {
-                  "text": "sliced"
-                },
-
-                "unit": null
+                }
               },
-              {
-                "count": 2,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Unsalted butter"
-                      },
-                      "name_plural": {
-                        "text": "Unsalted butter"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "tbsp"
+              "short_description1": {
+                "text": "sliced"
               },
-              {
-                "count": 2,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Caster sugar"
-                      },
-                      "name_plural": {
-                        "text": "Caster sugar"
-                      }
+
+              "unit": null
+            },
+            {
+              "count": 2,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Unsalted butter"
+                    },
+                    "name_plural": {
+                      "text": "Unsalted butter"
                     }
                   }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "tbsp"
+                }
               },
-              {
-                "count": 2,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Neutral oil"
-                      },
-                      "name_plural": {
-                        "text": "Neutral oil"
-                      }
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "tbsp"
+            },
+            {
+              "count": 2,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Caster sugar"
+                    },
+                    "name_plural": {
+                      "text": "Caster sugar"
                     }
                   }
-                },
-                "short_description1": {
-                  "text": ""
-                },
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
 
-                "unit": "tsp"
-              }
-            ],
-            "primary": {
-              "ingredient_group_title": {
-                "text": "For the top:"
-              }
+              "unit": "tbsp"
+            },
+            {
+              "count": 2,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Neutral oil"
+                    },
+                    "name_plural": {
+                      "text": "Neutral oil"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "tsp"
             }
-          },
-          {
-            "id": "c1b8b6bd-108d-52ca-a95f-b4f134c9765c",
-            "items": [
-              {
-                "count": 2,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Peach"
-                      },
-                      "name_plural": {
-                        "text": "Peaches"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": "cut into small cubes"
-                },
-
-                "unit": null
-              },
-              {
-                "count": 90,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Unsalted butter"
-                      },
-                      "name_plural": {
-                        "text": "Unsalted butter"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "g"
-              },
-              {
-                "count": 100,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Caster sugar"
-                      },
-                      "name_plural": {
-                        "text": "Caster sugar"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "g"
-              },
-              {
-                "count": 1,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Egg"
-                      },
-                      "name_plural": {
-                        "text": "Egg"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": null
-              },
-              {
-                "count": 1,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Vanilla extract"
-                      },
-                      "name_plural": {
-                        "text": "Vanilla extract"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "tbsp"
-              },
-              {
-                "count": 90,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Buttermilk"
-                      },
-                      "name_plural": {
-                        "text": ""
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "ml"
-              },
-              {
-                "count": 180,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Plain flour"
-                      },
-                      "name_plural": {
-                        "text": ""
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "g"
-              },
-              {
-                "count": 1,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Baking powder"
-                      },
-                      "name_plural": {
-                        "text": "Baking Powder"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "tsp"
-              },
-              {
-                "count": null,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Salt"
-                      },
-                      "name_plural": {
-                        "text": "Salt"
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "a pinch of"
-              },
-              {
-                "count": 1,
-                "ingredient": {
-                  "document": {
-                    "data": {
-                      "name": {
-                        "text": "Poppy seeds"
-                      },
-                      "name_plural": {
-                        "text": ""
-                      }
-                    }
-                  }
-                },
-                "short_description1": {
-                  "text": ""
-                },
-
-                "unit": "tsp"
-              }
-            ],
-            "primary": {
-              "ingredient_group_title": {
-                "text": "For the batter:"
-              }
+          ],
+          "primary": {
+            "ingredient_group_title": {
+              "text": "For the top:"
             }
           }
-        ],
-        "description": {
-          "text": "Substitutes: No egg? Use ground flax seeds instead. Mix together 1 tablespoon of flax seeds with 3 tablespoons of water and let thicken for 5 minutes.  Vegan? Use vegan butter instead and plant milk with 1 tbsp lemon juice instead of buttermilk. No peaches? Use nectarines, plums or apricots instead. "
         },
-        "leftovers": {
-          "text": ""
+        {
+          "id": "c1b8b6bd-108d-52ca-a95f-b4f134c9765c",
+          "items": [
+            {
+              "count": 2,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Peach"
+                    },
+                    "name_plural": {
+                      "text": "Peaches"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": "cut into small cubes"
+              },
+
+              "unit": null
+            },
+            {
+              "count": 90,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Unsalted butter"
+                    },
+                    "name_plural": {
+                      "text": "Unsalted butter"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "g"
+            },
+            {
+              "count": 100,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Caster sugar"
+                    },
+                    "name_plural": {
+                      "text": "Caster sugar"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "g"
+            },
+            {
+              "count": 1,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Egg"
+                    },
+                    "name_plural": {
+                      "text": "Egg"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": null
+            },
+            {
+              "count": 1,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Vanilla extract"
+                    },
+                    "name_plural": {
+                      "text": "Vanilla extract"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "tbsp"
+            },
+            {
+              "count": 90,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Buttermilk"
+                    },
+                    "name_plural": {
+                      "text": ""
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "ml"
+            },
+            {
+              "count": 180,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Plain flour"
+                    },
+                    "name_plural": {
+                      "text": ""
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "g"
+            },
+            {
+              "count": 1,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Baking powder"
+                    },
+                    "name_plural": {
+                      "text": "Baking Powder"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "tsp"
+            },
+            {
+              "count": null,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Salt"
+                    },
+                    "name_plural": {
+                      "text": "Salt"
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "a pinch of"
+            },
+            {
+              "count": 1,
+              "ingredient": {
+                "document": {
+                  "data": {
+                    "name": {
+                      "text": "Poppy seeds"
+                    },
+                    "name_plural": {
+                      "text": ""
+                    }
+                  }
+                }
+              },
+              "short_description1": {
+                "text": ""
+              },
+
+              "unit": "tsp"
+            }
+          ],
+          "primary": {
+            "ingredient_group_title": {
+              "text": "For the batter:"
+            }
+          }
         }
+      ],
+      "description": {
+        "text": "Substitutes: No egg? Use ground flax seeds instead. Mix together 1 tablespoon of flax seeds with 3 tablespoons of water and let thicken for 5 minutes.  Vegan? Use vegan butter instead and plant milk with 1 tbsp lemon juice instead of buttermilk. No peaches? Use nectarines, plums or apricots instead. "
+      },
+      "leftovers": {
+        "text": ""
       }
     },
     {
